@@ -4,6 +4,7 @@
 	"description": "Vendah Util",
 	"version": "0.0.1",
 	"publisher": "vendah",
+	"repository": "github:Vendah/vendah-vscode-extension",
 	"engines": {
 		"vscode": "^1.59.0"
 	},
